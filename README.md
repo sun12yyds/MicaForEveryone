@@ -1,4 +1,4 @@
-> # Be Iranian's voice!
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/103479527" width="128px" height="128px" alt="Mica For Everyone, two blue squares logo">
