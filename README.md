@@ -22,7 +22,6 @@ It can apply Mica (or any other backdrop materials) on the non-client area (wind
 ## 🕹 How do I get it?
 in this way
 ## 🛠 Config File
-For more information check our [wiki page](https://github.com/MicaForEveryone/MicaForEveryone/wiki/Config-File) and [default config file](MicaForEveryone/Resources/MicaForEveryone.conf).
 
 ## 🖥 Screenshots
 
