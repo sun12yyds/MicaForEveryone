@@ -20,7 +20,7 @@ It can apply Mica (or any other backdrop materials) on the non-client area (wind
 > **NOTE**: Mica For Everyone is not responsible for rendering the effects you set, it just asks Windows to do that for you. If there's any problem with the effects it's a third-party issue. Try creating a rule for the affected apps and try different settings before opening an issue for it.
 
 ## 🕹 How do I get it?
-in this way
+-[下载链接](https://github.com/sun12yyds/MicaForEveryone-Downloads-and-source-code)
 ## 🛠 Config File
 
 ## 🖥 Screenshots
